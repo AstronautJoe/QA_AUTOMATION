@@ -79,7 +79,7 @@ So you can skip this one but just to be sure:
 - 3.1 Open any Terminal. You can use Command Prompt (CMD).
 - 3.2 Change directory to the root folder so if this was in your downloads you enter this command:
 		
-		cd C:\Users\David134\Downloads\QA_engineer_exam'
+		cd C:\Users\David134\Downloads\QA_Automation'
 		
 - 3.3 Install the following components by entering this command
 
@@ -93,7 +93,7 @@ So you can skip this one but just to be sure:
 
 - 1.2 Change directory to the location of the folder. 
 
-		cd C:\Users\David134\Downloads\QA_engineer_exam
+		cd C:\Users\David134\Downloads\QA_Automation
 
 - 1.3 Enter the following command:
 
@@ -139,7 +139,7 @@ Verify_Prop_Images_have_300px_width - FAIL
 # Expected_Output:
 You should receive something like this in your terminal:
 
-	C:\Users\ash626\Desktop\Programming\JobAssessments\QA_Engineer\QA_engineer_exam>npx mocha --no-timeouts
+	C:\Users\Dave134\Desktop\Downloads\QA_Automation>npx mocha --no-timeouts
 
 
   	JessicaRoyce_Properties_Test_1
@@ -154,7 +154,7 @@ You should receive something like this in your terminal:
 
 	+ 'Fail!'
 	- 'Pass!'
-	    at Context.<anonymous> (C:\Users\ash626\Desktop\Programming\JobAssessments\QA_Engineer\QA_engineer_exam\test\test_1.js:40:11)
+	    at Context.<anonymous> (C:\Users\Dave134\Desktop\Downloads\QA_Automation\test\test_1.js:40:11)
 	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
 	  generatedMessage: true,
 	  code: 'ERR_ASSERTION',
@@ -176,7 +176,7 @@ You should receive something like this in your terminal:
 
 	+ 'Fail!'
 	- 'Pass!'
-	    at Context.<anonymous> (C:\Users\ash626\Desktop\Programming\JobAssessments\QA_Engineer\QA_engineer_exam\test\test_2.js:41:11)
+	    at Context.<anonymous> (C:\Users\Dave134\Desktop\Downloads\QA_Automation\test\test_2.js:41:11)
 	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
 	  generatedMessage: true,
 	  code: 'ERR_ASSERTION',
@@ -212,7 +212,7 @@ You should receive something like this in your terminal:
 	ERROR: Failed parsing Certificate
 
 	Error occured!: AssertionError [ERR_ASSERTION]: false == true
-	    at Context.<anonymous> (C:\Users\ash626\Desktop\Programming\JobAssessments\QA_Engineer\QA_engineer_exam\test\test_5.js:33:11)
+	    at Context.<anonymous> (C:\Users\Dave134\Desktop\Downloads\QA_Automation\test\test_5.js:33:11)
 	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
 	  generatedMessage: true,
 	  code: 'ERR_ASSERTION',
