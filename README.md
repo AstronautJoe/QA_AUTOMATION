@@ -1,4 +1,4 @@
-# Setup Guide for the QA Engineer Exam Demo
+# Setup Guide
 
 ## Table of Contents
 - [Prerequisites]
